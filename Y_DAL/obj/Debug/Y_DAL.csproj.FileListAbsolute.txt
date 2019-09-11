@@ -1,0 +1,6 @@
+D:\Exam\VsProject\Y_DAL\bin\Debug\Y_DAL.dll
+D:\Exam\VsProject\Y_DAL\bin\Debug\Y_DAL.pdb
+D:\Exam\VsProject\Y_DAL\obj\Debug\Y_DAL.csprojAssemblyReference.cache
+D:\Exam\VsProject\Y_DAL\obj\Debug\Y_DAL.csproj.CoreCompileInputs.cache
+D:\Exam\VsProject\Y_DAL\obj\Debug\Y_DAL.dll
+D:\Exam\VsProject\Y_DAL\obj\Debug\Y_DAL.pdb

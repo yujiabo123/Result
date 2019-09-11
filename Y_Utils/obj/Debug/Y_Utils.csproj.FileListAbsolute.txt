@@ -1,0 +1,16 @@
+D:\Exam\VsProject\Y_Tools\bin\Debug\Y_Utils.dll
+D:\Exam\VsProject\Y_Tools\bin\Debug\Y_Utils.pdb
+D:\Exam\VsProject\Y_Tools\bin\Debug\IP2Region.dll
+D:\Exam\VsProject\Y_Tools\obj\Debug\Y_Utils.csprojAssemblyReference.cache
+D:\Exam\VsProject\Y_Tools\obj\Debug\Y_Utils.csproj.CoreCompileInputs.cache
+D:\Exam\VsProject\Y_Tools\obj\Debug\Y_Utils.csproj.CopyComplete
+D:\Exam\VsProject\Y_Tools\obj\Debug\Y_Utils.dll
+D:\Exam\VsProject\Y_Tools\obj\Debug\Y_Utils.pdb
+D:\Exam\VsProject\Y_Utils\bin\Debug\Y_Utils.dll
+D:\Exam\VsProject\Y_Utils\bin\Debug\Y_Utils.pdb
+D:\Exam\VsProject\Y_Utils\bin\Debug\IP2Region.dll
+D:\Exam\VsProject\Y_Utils\obj\Debug\Y_Utils.csprojAssemblyReference.cache
+D:\Exam\VsProject\Y_Utils\obj\Debug\Y_Utils.csproj.CoreCompileInputs.cache
+D:\Exam\VsProject\Y_Utils\obj\Debug\Y_Utils.csproj.CopyComplete
+D:\Exam\VsProject\Y_Utils\obj\Debug\Y_Utils.dll
+D:\Exam\VsProject\Y_Utils\obj\Debug\Y_Utils.pdb
